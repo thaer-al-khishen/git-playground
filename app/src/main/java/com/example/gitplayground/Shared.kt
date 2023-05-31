@@ -1,5 +1,5 @@
 package com.example.gitplayground
 
 class Shared {
-    //Changes from profiles
+    //Changes from profile
 }
